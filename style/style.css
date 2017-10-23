@@ -9,7 +9,7 @@ body {
     height: 400px;
     margin: 50px auto;
     border-radius: 15px;
-    box-shadow: 0 0 10px aqua;
+    box-shadow: 0 0 10px red;
     display: flex;
     justify-content: center;
     align-items: center;
